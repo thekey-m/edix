@@ -1,3 +1,3 @@
 # edix
-a terminal text editor
+a terminal text editor\n
 in progress
